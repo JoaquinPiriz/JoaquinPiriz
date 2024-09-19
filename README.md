@@ -1,6 +1,9 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Joaquin+Piriz;)
 =====================================================================================================================================
 
+![4669689739874efe8cdc4ad3d7433f63](https://github.com/user-attachments/assets/5042a08a-b4a3-471f-bc95-019529703801)
+
+
 Full-Stack Developer
 --------------------
 
