@@ -7,7 +7,7 @@
 Full-Stack Developer
 --------------------
 
-I'm a Uruguayan informatic student who finds interest in full stack development and and cybersecurity.
+I'm a Uruguayan informatic student who finds interest in full stack development and cybersecurity.
 
 * 🌍  I'm based in Lyon, France.
 * ✉️  You can contact me at [joaquinpiriz1@hotmail.com](mailto:joaquinpiriz1@hotmail.com)
